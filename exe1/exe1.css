@@ -1,0 +1,23 @@
+body {
+    background-color:rgba(4, 179, 71, 0.733);
+    width: 400px; /* largura da página */
+    margin: auto;
+    color:yellow;
+    padding-left: 5%; /* espaçamento interno à esquerda */ 
+    padding-top: 10%; /* espaçamento interno acima */
+}
+
+div {
+    padding-bottom:30px;
+}
+
+input {
+    background-color: transparent;
+}
+
+#DivGeral{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gQ5MjBXKCIsK2PLm3MWktwhl6UrfPRNuaw&usqp=CAU);
+    border-radius: 15px;
+    background-color: rgb(95, 196, 1);
+    padding: 50px;
+}

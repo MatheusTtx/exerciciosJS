@@ -1,0 +1,23 @@
+body {
+    background-color:rgba(0, 19, 124, 0.733);
+    width: 400px; /* largura da página */
+    margin: auto;
+    color:yellow;
+    padding-left: 5%; /* espaçamento interno à esquerda */ 
+    padding-top: 10%; /* espaçamento interno acima */
+}
+
+div {
+    padding-bottom:30px;
+}
+
+input {
+    background-color: transparent;
+}
+
+#DivGeral{
+
+    border-radius: 15px;
+    background-color: rgb(182, 201, 9);
+    padding: 50px;
+}
